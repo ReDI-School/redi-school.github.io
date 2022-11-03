@@ -6,6 +6,10 @@ categories: Front-End
 tags: [react, js, front-end, application, hard]
 ---
 
+<img width="1183" alt="image" src="https://user-images.githubusercontent.com/51905839/199744534-b32065d4-b735-48f4-8649-b17f2575d11f.png">
+
+
+
 ## 1. Introduction
 
 The goal of this project is to create a React App that helps Berliners 🇩🇪 connect to local restaurants that are open during the pandemic. 
@@ -48,7 +52,8 @@ global state management: Context API
 data fetching: RESTful API
 styling: Styled Component
 
+
+Link to boilerplate repo: ---
+
 ## 7. Resources / Hints & Tips
 
-
-## 8. Check List

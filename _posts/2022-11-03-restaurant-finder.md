@@ -6,17 +6,19 @@ categories: Front-End
 tags: [react, js, front-end, application, hard]
 ---
 
-<img width="1183" alt="image" src="https://user-images.githubusercontent.com/51905839/199744534-b32065d4-b735-48f4-8649-b17f2575d11f.png">
-
-
 
 ## 1. Introduction
 
-The goal of this project is to create a React App that helps Berliners 🇩🇪 connect to local restaurants that are open during the pandemic. 
+The goal of this project is to create a React App that helps Berliners 🇩🇪 connect to local restaurants that are open during the pandemic. It is a Web App to find restaurants in Berlin, serving during the Pandemic. Restaurants can be filtered with their statuses and a dedicated page to each restaurant shows more information about them.
 
 ## 2. Project Brief 
 
 You are implementing and practicing the concepts that you've been learning during the semester including: routing, local & global state management, hooks, lifecycles & styling.
+
+
+![image](https://user-images.githubusercontent.com/51905839/199746245-229c01e3-1cc7-46a8-b36f-d18223f4cf3d.png)
+
+
 
 ## 3. Learning Objective
 
@@ -37,12 +39,15 @@ You are implementing and practicing the concepts that you've been learning durin
 ## 5. Optional Challenges
 
 
+
 ## 6. Technical Setup
 
 Clone down this repository. You will need node and npm installed globally on your machine.
-- to install dependencies
-- npm install to run the application
-- npm start to visit the App:
+to install dependencies:
+``` npm install ```
+to run the application: 
+``` npm start ```
+to visit the App:
 https://reditofind.netlify.app/
 
 **Technologies:**
@@ -53,7 +58,7 @@ data fetching: RESTful API
 styling: Styled Component
 
 
-Link to boilerplate repo: ---
+Link to boilerplate repo: https://github.com/ReDI-School/react-21s-final-project-1
 
 ## 7. Resources / Hints & Tips
 

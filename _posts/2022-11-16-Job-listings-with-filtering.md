@@ -48,11 +48,9 @@ You'll learn how to use JavaScript to filter items in the DOM. This is a key ski
 6. Start coding!
 
 **Technologies:**
-framework: HTM.CSS.JS
-routing: 
-global state management: 
-data fetching: 
-styling: 
+- HTML
+- CSS
+- JS
 
 
 Link to boilerplate repo: https://github.com/ReDI-School/js-nrw-2022-fall/blob/master/project_ideas.md
